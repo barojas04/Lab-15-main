@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "thriller",
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80."
+  },
+  {
+    "slug": "back-in-black",
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Hard Rock",
+    "anio": 1980,
+    "sello": "Albert",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "resumen": "Uno de los álbumes de rock más influyentes.",
+    "descripcion": "El primer álbum de AC/DC con el vocalista Brian Johnson, tras la muerte de Bon Scott."
+  },
+  {
+    "slug": "the-dark-side-of-the-moon",
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Progressive Rock",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "dark-side.avif",
+    "resumen": "Obra maestra del rock progresivo.",
+    "descripcion": "Un álbum conceptual que explora temas como el conflicto, la codicia, el tiempo y la enfermedad mental."
+  },
+  {
+    "slug": "rumours",
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Soft Rock",
+    "anio": 1977,
+    "sello": "Warner Bros.",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "resumen": "El pico comercial de Fleetwood Mac.",
+    "descripcion": "Grabado en medio de tensiones personales entre los miembros de la banda, se convirtió en un éxito masivo."
+  },
+  {
+    "slug": "abbey-road",
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "resumen": "El último álbum grabado por The Beatles.",
+    "descripcion": "Conocido por su icónica portada y el medley en la cara B del vinilo original."
+  },
+  {
+    "slug": "nevermind",
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC",
+    "pistas": 12,
+    "imagen": "nevermind.avif",
+    "resumen": "El álbum que popularizó el rock alternativo.",
+    "descripcion": "Con su sencillo principal 'Smells Like Teen Spirit', Nevermind llevó el grunge al mainstream."
+  }
+]
